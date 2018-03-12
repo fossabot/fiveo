@@ -3,6 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
 [![Build Status](https://travis-ci.org/garyttierney/fiveo.svg?branch=master)](https://travis-ci.org/garyttierney/fiveo)
 [![Crates.io Version](https://img.shields.io/crates/v/fiveo.svg)](https://crates.io/crates/fiveo)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgaryttierney%2Ffiveo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgaryttierney%2Ffiveo?ref=badge_shield)
 
 `fiveo` is a fuzzy text searching library built for use on the web.  The API is designed with usage from a C-like foreign function interface in mind so it can be easily embedded in WebAssembly objects.
 
@@ -52,3 +53,6 @@ features = ["webassembly"]
 ## Credits
 
 `fiveo` is inspired by the Sublime fuzzy text matcher and [@hansonw](https://github.com/hansonw/fuzzy-native)'s port of Cmd-T's algorithm
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgaryttierney%2Ffiveo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgaryttierney%2Ffiveo?ref=badge_large)
